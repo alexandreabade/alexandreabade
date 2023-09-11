@@ -12,19 +12,28 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Ola Sou Alexandre Abade</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻
+  Sobre
+</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Eu sou Alexandre Abade 
+Desenvolvedor a mais de 12 anos , programo em linguagens como 
+
+Tenho uma vasta experiencia em desenvolvimento de sistemas e aplicativos  
+  <br>
+  <br>- 🔭 Eu trabalho uso e tenho conhecimento em linguagens como Delphi, Flutter, Java , PHP e Swift,
+  fora que ainda conheço diverso bancos de dados como Postgresql , Oracle, Firebird, Mysql
+<br>- Atualmente faço freelas nas horas extrar<br>- ⚡ E aos finais de semana e a noite fico com a familia</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e ferramentas </h3>
 
 ###
 
