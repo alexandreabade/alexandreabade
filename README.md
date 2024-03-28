@@ -32,7 +32,9 @@ Tenho uma vasta experiencia em desenvolvimento de sistemas e aplicativos
   <br>
   <br>- 🔭 Eu trabalho uso e tenho conhecimento em linguagens como Delphi, Flutter, Java , PHP e Swift,
   fora que ainda conheço diverso bancos de dados como Postgresql , Oracle, Firebird, Mysql
-<br>- Atualmente faço freelas nas horas extrar<br>- ⚡ E aos finais de semana e a noite fico com a familia</p>
+<br>- Sou motivado por desafios <br>
+<br>- Gosto de projetos novos coisas novas nunca feitas <br>
+- ⚡ E aos finais de semana e a noite fico com a familia</p>
 
 ###
 
