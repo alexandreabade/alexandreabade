@@ -23,7 +23,10 @@
 ###
 
 <p align="left">Eu sou Alexandre Abade 
-Desenvolvedor a mais de 12 anos , programo em linguagens como 
+Desenvolvedor a mais de 12 anos , programo em varias linguagens 
+dentre elas Dart com Flutter, PHP , Delphi, Swift e Java.
+Possuo um amplo conhecimento em varios bancos de dados Relacionais como 
+Oracle , PostgresSQL , SQL Server, Mysql e ( Firebird - nao curto mas dominio tambem 😂) 
 
 Tenho uma vasta experiencia em desenvolvimento de sistemas e aplicativos  
   <br>
